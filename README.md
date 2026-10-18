@@ -9,8 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sachinrs12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sachinsuryawanshi197@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=SachinrSuryawanshi&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=SachinrSuryawanshi&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 ---
 
